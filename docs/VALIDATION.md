@@ -48,7 +48,7 @@
 GitHub Actions запускает `make check` на Linux с GCC и Clang и на macOS.
 В Linux включён LeakSanitizer (`detect_leaks=1`). Задание Clang также выполняет
 статический анализ, 15 секунд libFuzzer и миллион воспроизводимых мутаций.
-Текущий результат находится в [Actions](https://github.com/ernat-soltanbekov/teller-system/actions/workflows/ci.yml).
+Текущий результат находится в [Actions](https://github.com/GhostOfAstana/teller-system/actions/workflows/ci.yml).
 
 На локальной macOS Apple Command Line Tools не содержат библиотеку runtime
 libFuzzer. Поэтому coverage-guided fuzzing здесь не заявляется выполненным;

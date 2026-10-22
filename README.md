@@ -1,6 +1,6 @@
 # teller-system
 
-[![Audit](https://github.com/ernat-soltanbekov/teller-system/actions/workflows/ci.yml/badge.svg)](https://github.com/ernat-soltanbekov/teller-system/actions/workflows/ci.yml)
+[![Audit](https://github.com/GhostOfAstana/teller-system/actions/workflows/ci.yml/badge.svg)](https://github.com/GhostOfAstana/teller-system/actions/workflows/ci.yml)
 
 Терминальная система управления учебными банковскими счетами на C11.
 Регистрация, управление счетами, операции, передача владельца и анализ расходов
@@ -8,7 +8,7 @@
 уведомления между открытыми сессиями, хеширование паролей, SQLite, улучшенное меню,
 Makefile и дополнительные проверки восстановления после сбоев.
 
-Автор и владелец: [Yernat «GhostOfAstana» Soltanbekov](https://github.com/ernat-soltanbekov).
+Автор и владелец: [Ернат Солтанбеков (Yernat Soltanbekov)](https://github.com/GhostOfAstana).
 Военное прошлое, ежедневная утренняя практика боевых искусств с 2008 года,
 техническое образование и обучение в Tomorrow School определяют подход:
 дисциплина, ясность и проверка каждого существенного действия.
@@ -21,7 +21,7 @@ Makefile и дополнительные проверки восстановле
 Поддерживаются Linux и macOS. Python 3.9+ нужен только для внешнего аудита.
 
 ```sh
-git clone https://github.com/ernat-soltanbekov/teller-system.git
+git clone https://github.com/GhostOfAstana/teller-system.git
 cd teller-system
 
 # Ubuntu / Debian, если библиотек ещё нет:
